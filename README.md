@@ -8,8 +8,12 @@ for sets of moments up to second order.
 
 Description of the different subdirectories:
 
-Non_Gray_Optimization: contains the code for solving the entropy optimization for given sets of angular 
+- Non_Gray_Optimization: contains the code for solving the entropy optimization for given sets of angular 
                        moments up to second order. It calls the optimization algorithm from the nlopt 
                        open source code for non-linear optimization.
 
-M2_Model_Interp: contains the code that performs the interpolation of the maximum entropy solutions.
+- M2_Model_Interp: contains the code that performs the interpolation of the maximum entropy solutions.
+
+- Gray_M2_Model:
+
+- Non_Gray_M2_Model:
